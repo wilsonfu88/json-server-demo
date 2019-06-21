@@ -1,5 +1,9 @@
 json-server 是一个基于Express的mock工具，轻量级易学好用。
 
+不懂什么是Mock，参考教程
+
+https://github.com/nuysoft/Mock/wiki/Getting-Started
+
 
 全局安装
 
